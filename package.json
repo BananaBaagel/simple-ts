@@ -1,0 +1,22 @@
+{
+  "name": "simple-banana-ts",
+  "version": "1.0.0",
+  "description": "A simple script to set up a node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "author": "BananaBaagel",
+  "type": "module",
+  "bin": {
+    "simple-banana-ts": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "ISC"
+}
