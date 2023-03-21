@@ -9,7 +9,8 @@ A simple script to create a typescript project!
 Simply run the command:
 
 npx: `npx simple-banana-ts`
-npm exec: `npm x simple-banana-ts`
+
+npm: `npm x simple-banana-ts` or `npm exec simple-banana-ts`
 
 ## What does it do?
 
