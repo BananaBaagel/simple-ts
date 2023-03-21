@@ -1,7 +1,7 @@
 {
-  "name": "simple-banana-ts",
+  "name": "simple-ts",
   "version": "1.1.0",
-  "description": "A simple script to set up a node.js project",
+  "description": "A simple script to set up a node.js project with typescript",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -21,9 +21,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BananaBaagel/simple-banana-ts"
+    "url": "https://github.com/BananaBaagel/simple-ts"
   },
-  "homepage": "https://github.com/BananaBaagel/simple-banana-ts",
+  "homepage": "https://github.com/BananaBaagel/simple-ts",
   "dependencies": {
     "chalk": "^5.2.0",
     "commander": "^10.0.0",
