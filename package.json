@@ -1,6 +1,6 @@
 {
   "name": "simple-ts",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A simple script to set up a node.js project with typescript",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "simple-banana-ts": "./index.js"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "README.md"
   ],
   "license": "ISC",
   "repository": {
