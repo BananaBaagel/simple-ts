@@ -89,7 +89,7 @@ fs.writeFileSync('package.json', JSON.stringify(pkg, null, 2));
 
 // Build index.ts
 if (debugMode) console.log('Building index.ts...');
-execSync(join('node_modules', '.bin', 'tsc.cmd'));
+execSync(join('node_modules', '.bin', 'tsc'));
 
 console.log('Project created successfully!');
 process.exitCode = 0;

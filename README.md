@@ -1,4 +1,4 @@
-# Simple-banana-ts
+# simple-ts
 
 <a href='https://www.npmjs.com/package/simple-ts'><img alt="npm" src="https://img.shields.io/npm/v/simple-ts?color=00a500&label=npm&style=flat-square"></a>
 
@@ -10,7 +10,7 @@ Simply run the command:
 
 npx: `npx simple-banana-ts`
 
-npm: `npm x simple-banana-ts` or `npm exec simple-banana-ts`
+npm: `npm exec simple-ts`
 
 ## What does it do?
 
